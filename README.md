@@ -1,58 +1,64 @@
 
-### Hola, soy Ariel Mella 👋
+### Hi there, I'm Ariel Mella  👋
 #### 🏭 Ingeniero de Soluciones Operacionales | Puente entre el "Gemba" y el Código
 
-Ingeniero Lean especializado en logística de distribución. Mi enfoque es único: **vivo la operación en el piso** para entender los dolores reales y **programo las soluciones**. No busco solo escribir software; busco eliminar ineficiencias, reducir mermas y optimizar el flujo logístico mediante tecnología.
+Ingeniero Lean especializado en logística de distribución. Mi enfoque es único: **vivo la operación** para entender los dolores reales y **programo las soluciones**. No busco solo escribir software; busco eliminar ineficiencias, reducir mermas y optimizar el flujo logístico mediante tecnología.
+
+  </a>
+  <br />
+  
+  ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat&logo=amazonaws&logoColor=white)
+  ![SAP](https://img.shields.io/badge/SAP-Automation-008FD3?style=flat&logo=sap&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/AI-Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+</div>
 
 ---
 
-### 🛠 **Mi Stack Tecnológico**
+## 🛠️ Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_RPA-008FD3?style=for-the-badge&logo=sap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Google Gemini](https://img.shields.io/badge/AI_Vision-Gemini-8E75B2?style=for-the-badge)
+### 🤖 [Nexus JARVIS](https://github.com/Reinvik/Nexus-Orchestrator)
+**Centralized Logistics Automation Platform**
+A comprehensive Full-Stack platform (React + Python) that orchestrates a suite of RPA bots for warehouse operations.
+- **Technologies:** Python, SAP GUI Scripting, React, Firebase, Google Gemini Vision.
+- **Key Modules:** 
+    - `Conciliation Bot`: Automates MIGO entries from emails (-90% time).
+    - `Stock Auditor`: "Zombie" stock detection (MB52/MB51 analysis).
+    - `Vision Bot`: Digitizes handwritten dock logs using AI.
 
-*   **Core:** Python 3.10+ (Automation & Scripting), JavaScript.
-*   **Datos:** SQL, Power BI, Excel Avanzado (VBA).
-*   **Metodología:** Lean Six Sigma, Kaizen, Gestión Visual (Poka-Yoke).
+### 🎙️ [Jarvis Alexa Skill](https://github.com/Reinvik/Alexa_Jarvis)
+**Intelligent Butler for Smart Home**
+An advanced Alexa Skill powered by **Google Gemini LLM**.
+- **Features:** Natural conversation, "Butler" persona, smart home integration.
+- **Tech:** AWS Lambda (Python), Google Generative AI API, SSML.
 
----
-
-### 🚀 **Proyectos Destacados**
-
-#### 🎛️ Logistics Automation Suite (Python GUI)
-Aplicación de escritorio moderna (desarrollada con **CustomTkinter**) que centraliza y orquesta robots de automatización para centros de distribución SAP MM/WM. Diseñada para ser usada por operarios sin conocimientos de programación.
-
-> **Módulos Integrados:**
-
-*   🧟 **Auditor de Stocks "Zombies" (`SapBotAuditor`)**
-    *   **Función:** Cruza inventario actual (MB52) vs. historial de movimientos (MB51).
-    *   **Impacto:** Detecta stock inmovilizado (>30 días) y genera alertas de semáforo para recuperación de capital.
-
-*   👁️ **Visión Artificial de Pizarra (`BotVisionPizarra`)**
-    *   **Tecnología:** Integración con **Google Gemini API (AI Vision)** y OCR.
-    *   **Función:** Lee fotos de pizarras manuscritas de control de patio y digitaliza los datos a Excel/Power BI automáticamente.
-
-*   🗺️ **Mapeo Visual de Altura (`SapBotPallet`)**
-    *   **Función:** Extrae datos de la transacción LX02 y genera reportes visuales "Pasillo por Hoja".
-    *   **Impacto:** Facilita la auditoría física en grúa mediante gestión visual impresa.
-
-*   ⚡ **Carga Masiva Inteligente (`SapMigoBotTurbo`)**
-    *   **Función:** Automatización de transacción MIGO interactuando con Excel en tiempo real.
-    *   **Mejora:** Reduce tiempos de digitación y elimina errores humanos en movimientos internos.
-
-*   🚛 **Reportabilidad de Transporte (`SapBotTransporte`)**
-    *   **Función:** Extracción automática de VT11/VT03N para generación de reportes de estado de flota.
+### 📦 [SAP Cycle Inventory Bot](https://github.com/Reinvik/Inventario_Ciclico)
+**Excel-Integrated SAP Automation**
+Robust Python RPA replacing legacy VBScripts for cycle counting management.
+- **Integration:** Triggered directly from Excel via VBA.
+- **Tech:** `pywin32` for direct COM interaction.
 
 ---
 
-#### 🌐 Torre de Control de Despachos (Web App)
-Sistema web para la gestión de tiempos en patio y asignación de andenes.
-*   **Innovación Híbrida:** Integra la app digital con un sistema de **Gestión Visual Física** (Zonales por color, QRs cromáticos, Banderas y Conos en pallets).
-*   **Objetivo:** Sincronizar el flujo físico del pallet con el flujo digital del dato.
+## 📈 Impact & Stats
 
+| Focus Area | Impact |
+|:---:|:---|
+| **RPA** | Automated +5 critical processes reducing manual typed effort by **~90%**. |
+| **AI** | Implemented Vision AI to digitize unstructured operational data. |
+| **Web** | Built centralized dashboards for real-time monitoring of bot ecosystem. |
+
+---
+
+## 📫 Connect
+
+- **Email:** ariel.mella@cial.cl / ariel.mellag@gmail.com
+- **Location:** Chile 🇨🇱
+
+<!--
+**Reinvik/Reinvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 ---
 
 📫 **Conectemos:** [www.linkedin.com/in/ariel-mauricio-mella-gonzalez](https://www.linkedin.com/in/ariel-mauricio-mella-gonzalez/)
