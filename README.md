@@ -18,7 +18,7 @@ Ingeniero Lean especializado en logística de distribución. Mi enfoque es únic
 
 ## 🛠️ Featured Projects
 
-### 🤖 [Nexus JARVIS](https://nexus-jarvis.vercel.app/)
+### 🤖 [Nexus JARVIS](https://github.com/Reinvik/Nexus_Jarvis)
 **Centralized Logistics Automation Platform**
 A comprehensive Full-Stack platform (React + Python) that orchestrates a suite of RPA bots for warehouse operations.
 - **Technologies:** Python, SAP GUI Scripting, React, Firebase, Google Gemini Vision.
