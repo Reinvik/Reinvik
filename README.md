@@ -2,7 +2,7 @@
 ### Hi there, I'm Ariel Mella  👋
 #### 🏭 Ingeniero de Soluciones Operacionales | Puente entre el "Gemba" y el Código
 
-Ingeniero Lean especializado en logística de distribución. Mi enfoque es único: **vivo la operación** para entender los dolores reales y **programo las soluciones**. No busco solo escribir software; busco eliminar ineficiencias, reducir mermas y optimizar el flujo logístico mediante tecnología.
+Ingeniero Lean especializado en logística de distribución. Mi enfoque es único: **vivo la operación** para entender los dolores reales y **programo las soluciones**. No busco solo crear software; busco eliminar ineficiencias, reducir mermas y optimizar el flujo logístico mediante tecnología.
 
   </a>
   <br />
