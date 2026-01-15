@@ -5,28 +5,44 @@ I am a unique hybrid: a Lean Engineer who lives in the operation to spot real in
 ---
 ## 🚀 The Nexus Ecosystem
 My flagship work is **Nexus**, a suite of interconnected applications redefining operational efficiency.
-### 🏥 [Nexus Medical](https://github.com/Reinvik/Nexus-Medical)
+### 🌐 [Nexus Network](https://nexusnetwork.cl)
+**The Central Nervous System**
+*Stack: React 19 (Vite), Three.js, Framer Motion.*
+- Unified entry point for the ecosystem with immersive 3D visualization.
+- PWA support for operational mobility.
+- **[View Code](https://github.com/Reinvik/nexus-network)**
+### 🏥 [Nexus Medical](https://medical.nexusnetwork.cl)
 **Next-Gen Biomedical Asset Management**
 *State-of-the-art stack: Next.js 16 (React 19), TailwindCSS v4, Supabase, Google Gemini AI.*
 - **AI-Powered Analysis**: Integrated Google Gemini for predictive maintenance and automated report generation.
-- **Performance**: Built on the bleeding edge of React Server Components for instant data access.
+- **Performance**: Built on the bleeding edge of React Server Components.
 - **Real-time**: Live equipment tracking and ticket management.
-### 🏭 [Nexus Lean](https://github.com/Reinvik/nexus-lean)
+- **[View Code](https://github.com/Reinvik/Nexus-Medical)**
+### 🏭 [Nexus Lean](https://lean.nexusnetwork.cl)
 **Operational Excellence Dashboard**
 *Stack: React (Vite), PWA, Supabase, Recharts.*
-- **Digital 5S**: Mobile-first PWA for conducting and syncing 5S audits directly from the factory floor.
-- **Kaizen Management**: Digital tracking of continuous improvement initiatives (Quick Wins).
+- **Digital 5S**: Mobile-first PWA for conducting and syncing 5S audits from the factory floor.
+- **Kaizen Management**: Digital tracking of continuous improvement initiatives.
 - **Data Visualization**: Real-time KPI dashboards replacing static Excel reports.
-### 🧠 [Nexus Skills](https://github.com/Reinvik/nexus-skills) & Network
-**Corporate Training & Central Intelligence**
-- **LMS Platform**: Custom-built Learning Management System for operational training.
-- **Central Identity**: Unified authentication and navigation across the entire Nexus suite.
+- **[View Code](https://github.com/Reinvik/nexus-lean)**
+### 🧠 [Nexus Skills](https://skills.nexusnetwork.cl)
+**Corporate Training & LMS**
+*Stack: React, Supabase, TailwindCSS.*
+- Custom-built Learning Management System for operational training.
+- Integrated evaluation and certification workflows.
+- **[View Code](https://github.com/Reinvik/nexus-skills)**
+### 📰 [Nexus News](https://news.nexusnetwork.cl)
+**AI-Driven Corporate Intelligence**
+*Stack: Next.js 16, Google Gemini, D3.js.*
+- Automated content generation and summarization using Gemini.
+- Advanced data visualization with D3.js.
+- **[View Code](https://github.com/Reinvik/nexus-news)**
 ---
 ## 🛠️ Technical Arsenal
 | Domain | Technologies |
 |--------|--------------|
 | **Frontend Core** | React 19, Next.js 16 (App Router), TypeScript, Vite |
-| **Styling & UI** | TailwindCSS v4, Framer Motion, Shadcn/UI, Lucide |
+| **Styling & UI** | TailwindCSS v4, Framer Motion, Shadcn/UI, Three.js |
 | **Backend & DB** | Python (FastAPI), Supabase (PostgreSQL), Firebase |
 | **AI & Automation** | Google Gemini (Multimodal), SAP GUI Scripting, RPA |
 | **Ops & Cloud** | AWS Lambda, Vercel, Docker, CI/CD |
@@ -39,5 +55,4 @@ My flagship work is **Nexus**, a suite of interconnected applications redefining
 ## 📫 Connect
 - **Email:** [ariel.mella@cial.cl](mailto:ariel.mella@cial.cl) / [ariel.mellag@gmail.com](mailto:ariel.mellag@gmail.com)
 - **LinkedIn:** [Ariel Mella Gonzalez](https://www.linkedin.com/in/ariel-mauricio-mella-gonzalez)
-- **Location:** Chile 🇨🇱|
----
+- **Location:** Chile
