@@ -1,5 +1,5 @@
 # Hi there, I'm Ariel Mella 👋
-**🏭 Lead Operations Engineer | Full Stack Developer | Lean Consultant**
+**🏭 Lead Operations Engineer | Lean Consultant**
 *Bridging the gap between the "Gemba" and deployed Code.*
 I am a unique hybrid: a Lean Engineer who lives in the operation to spot real inefficiencies and a Full Stack Developer who builds the solutions to fix them. I don't just write software; I architect ecosystems that eliminate waste, digitize manual workflows, and optimize logistic chains.
 ---
